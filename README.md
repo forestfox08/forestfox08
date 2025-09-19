@@ -9,5 +9,5 @@
 Ik ben J.J., Ik ben een student en ik studeer Game Development.
 <br>
 <br>
-_Hi I'm J.J., I'm a student who studies Game Development._
+Hi I'm J.J., I'm a student who studies Game Development.
 </div>
