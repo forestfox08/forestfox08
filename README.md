@@ -2,6 +2,7 @@
 
 <div style align=center>
 <img src="./Images/Tumblr_p90h1oABTL1vltj92o2_1280.jpg">
+<br>
 (This is Toro Inoue, The Playstation Japan Mascot)
 </div>
 <br>
