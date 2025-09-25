@@ -6,7 +6,6 @@
 (This is Toro Inoue, The Playstation Japan Mascot)
 </div>
 <br>
-<br>
 <div style align=center>
 Ik ben J.J., Ik ben een student en ik studeer Game Development.
 <br>
