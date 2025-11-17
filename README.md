@@ -1,4 +1,4 @@
-## Hii !! 
+## About Me
 <br>
 <div style align=center>
 Ik ben J.J., ik ben een student en ik studeer Game Development.
