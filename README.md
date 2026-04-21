@@ -7,7 +7,7 @@ Hi, my name is J.J. and I'm a allround software developer specializing in Game D
 I enjoy web development more though.
 <br>
 <br>
-Here you'll find my website!!!
+Here you'll find my website! There you'll find more information about me.
 <br>
 <a href="www.jjdebastos.com">Website</a>
 </div>
