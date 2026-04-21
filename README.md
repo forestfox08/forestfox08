@@ -1,8 +1,10 @@
 ## About Me
 <br>
 <div style align=center>
-Ik ben J.J., ik ben een student en ik studeer Game Development.
+Hi, my name is J.J. and I'm a allround software developer specializing in Game Development. 
 <br>
 <br>
-Hi I'm J.J., I'm a student who studies Game Development.
+I enjoy web development more though.
+
+<a href="www.jjdebastos.com">My website</a>
 </div>
