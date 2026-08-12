@@ -9,5 +9,4 @@ I enjoy Web Development more though. I also have more experience on the subject 
 <br>
 Here you'll find my website! There you'll find more information about me.
 <br>
-<a href="https://www.jjdebastos.com">Website</a>
 </div>
